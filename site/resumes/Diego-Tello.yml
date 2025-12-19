@@ -35,8 +35,8 @@ basic_info:
     # Contact Information
     email: diegotellomendoza@gmail.com #optional
     phone: #optional
-    website: https://diegotellom.wixsite.com/diego
-    website2: https://www.behance.net/decio
+    website_portfolio: https://diegotellom.wixsite.com/diego
+    website2_portfolio: https://www.behance.net/decio
     linkedin: diego-tello-mendoza
     
     #
